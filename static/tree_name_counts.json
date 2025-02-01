@@ -1,0 +1,612 @@
+[{"borough":"Barking ","display_name":"Alder","tree_count":174,"avg_latitude":51.5464745326,"avg_longitude":0.1285508691}
+,{"borough":"Barking ","display_name":"Apple","tree_count":556,"avg_latitude":51.5501027448,"avg_longitude":0.1255014674}
+,{"borough":"Barking ","display_name":"Ash","tree_count":762,"avg_latitude":51.5502421542,"avg_longitude":0.1281279664}
+,{"borough":"Barking ","display_name":"Beech","tree_count":156,"avg_latitude":51.5476077178,"avg_longitude":0.1097502343}
+,{"borough":"Barking ","display_name":"Birch","tree_count":458,"avg_latitude":51.5480709362,"avg_longitude":0.1180282615}
+,{"borough":"Barking ","display_name":"Black Locust","tree_count":348,"avg_latitude":51.549211147,"avg_longitude":0.1123834825}
+,{"borough":"Barking ","display_name":"Cherry","tree_count":2799,"avg_latitude":51.5493297079,"avg_longitude":0.1256257411}
+,{"borough":"Barking ","display_name":"Chestnut\/ Sweet Chestnut","tree_count":724,"avg_latitude":51.5439839804,"avg_longitude":0.113700864}
+,{"borough":"Barking ","display_name":"Cypress","tree_count":211,"avg_latitude":51.5453833158,"avg_longitude":0.1306918867}
+,{"borough":"Barking ","display_name":"Elm","tree_count":82,"avg_latitude":51.5469919921,"avg_longitude":0.148937065}
+,{"borough":"Barking ","display_name":"Hawthorn","tree_count":509,"avg_latitude":51.548726496,"avg_longitude":0.1161573733}
+,{"borough":"Barking ","display_name":"Hazel","tree_count":34,"avg_latitude":51.5553279544,"avg_longitude":0.1347237653}
+,{"borough":"Barking ","display_name":"Hornbeam","tree_count":174,"avg_latitude":51.5466179979,"avg_longitude":0.125385815}
+,{"borough":"Barking ","display_name":"Lime","tree_count":1691,"avg_latitude":51.5473327501,"avg_longitude":0.1220936474}
+,{"borough":"Barking ","display_name":"Maple","tree_count":2495,"avg_latitude":51.5499004586,"avg_longitude":0.128790062}
+,{"borough":"Barking ","display_name":"Oak","tree_count":175,"avg_latitude":51.5497635967,"avg_longitude":0.1198685852}
+,{"borough":"Barking ","display_name":"Other","tree_count":1119,"avg_latitude":51.5462555395,"avg_longitude":0.1119125399}
+,{"borough":"Barking ","display_name":"Pear","tree_count":346,"avg_latitude":51.5502883187,"avg_longitude":0.12457798}
+,{"borough":"Barking ","display_name":"Pine","tree_count":53,"avg_latitude":51.5508700013,"avg_longitude":0.1226938279}
+,{"borough":"Barking ","display_name":"Plane","tree_count":1057,"avg_latitude":51.545873471,"avg_longitude":0.1199572699}
+,{"borough":"Barking ","display_name":"Poplar","tree_count":1080,"avg_latitude":51.551231822,"avg_longitude":0.1236790758}
+,{"borough":"Barking ","display_name":"Whitebeam","tree_count":1127,"avg_latitude":51.5504541921,"avg_longitude":0.1250747754}
+,{"borough":"Barking ","display_name":"Willow","tree_count":198,"avg_latitude":51.5528963384,"avg_longitude":0.1217617894}
+,{"borough":"Barnet","display_name":"Alder","tree_count":373,"avg_latitude":51.6061773321,"avg_longitude":-0.2075619062}
+,{"borough":"Barnet","display_name":"Apple","tree_count":1866,"avg_latitude":51.6057916242,"avg_longitude":-0.2041843823}
+,{"borough":"Barnet","display_name":"Ash","tree_count":1628,"avg_latitude":51.6119731535,"avg_longitude":-0.2193059441}
+,{"borough":"Barnet","display_name":"Beech","tree_count":269,"avg_latitude":51.6089592598,"avg_longitude":-0.2048984472}
+,{"borough":"Barnet","display_name":"Birch","tree_count":2502,"avg_latitude":51.6085385319,"avg_longitude":-0.1994960806}
+,{"borough":"Barnet","display_name":"Cherry","tree_count":8384,"avg_latitude":51.6089618127,"avg_longitude":-0.2067946075}
+,{"borough":"Barnet","display_name":"Chestnut\/ Sweet Chestnut","tree_count":678,"avg_latitude":51.6134658773,"avg_longitude":-0.1881815083}
+,{"borough":"Barnet","display_name":"Cypress","tree_count":414,"avg_latitude":51.615596835,"avg_longitude":-0.2015243481}
+,{"borough":"Barnet","display_name":"Elm","tree_count":80,"avg_latitude":51.6055086967,"avg_longitude":-0.2090357925}
+,{"borough":"Barnet","display_name":"Hawthorn","tree_count":1657,"avg_latitude":51.6110676953,"avg_longitude":-0.202269122}
+,{"borough":"Barnet","display_name":"Hazel","tree_count":278,"avg_latitude":51.6101309414,"avg_longitude":-0.2132394879}
+,{"borough":"Barnet","display_name":"Hornbeam","tree_count":757,"avg_latitude":51.6119147875,"avg_longitude":-0.1966501745}
+,{"borough":"Barnet","display_name":"Lime","tree_count":3842,"avg_latitude":51.604369385,"avg_longitude":-0.2019222926}
+,{"borough":"Barnet","display_name":"Maple","tree_count":3918,"avg_latitude":51.6091960008,"avg_longitude":-0.20434815}
+,{"borough":"Barnet","display_name":"Oak","tree_count":2049,"avg_latitude":51.6154365213,"avg_longitude":-0.2050477281}
+,{"borough":"Barnet","display_name":"Other","tree_count":4541,"avg_latitude":51.6087296562,"avg_longitude":-0.2061046031}
+,{"borough":"Barnet","display_name":"Pear","tree_count":455,"avg_latitude":51.6097990113,"avg_longitude":-0.1995896538}
+,{"borough":"Barnet","display_name":"Pine","tree_count":216,"avg_latitude":51.6232847191,"avg_longitude":-0.2048571354}
+,{"borough":"Barnet","display_name":"Plane","tree_count":2450,"avg_latitude":51.5998960164,"avg_longitude":-0.2065587016}
+,{"borough":"Barnet","display_name":"Poplar","tree_count":150,"avg_latitude":51.6068494242,"avg_longitude":-0.2048510486}
+,{"borough":"Barnet","display_name":"Whitebeam","tree_count":2208,"avg_latitude":51.6064603475,"avg_longitude":-0.2062420038}
+,{"borough":"Barnet","display_name":"Willow","tree_count":687,"avg_latitude":51.6125607391,"avg_longitude":-0.2069130042}
+,{"borough":"Bexley","display_name":"Alder","tree_count":16,"avg_latitude":51.4569357238,"avg_longitude":0.1293801801}
+,{"borough":"Bexley","display_name":"Apple","tree_count":709,"avg_latitude":51.4532424037,"avg_longitude":0.1204391957}
+,{"borough":"Bexley","display_name":"Ash","tree_count":317,"avg_latitude":51.4601780557,"avg_longitude":0.099174823}
+,{"borough":"Bexley","display_name":"Beech","tree_count":43,"avg_latitude":51.3531887679,"avg_longitude":-0.2266454653}
+,{"borough":"Bexley","display_name":"Birch","tree_count":949,"avg_latitude":51.4518933069,"avg_longitude":0.1221678632}
+,{"borough":"Bexley","display_name":"Black Locust","tree_count":130,"avg_latitude":51.4397101585,"avg_longitude":0.0656467821}
+,{"borough":"Bexley","display_name":"Cherry","tree_count":3059,"avg_latitude":51.437269223,"avg_longitude":0.0616151596}
+,{"borough":"Bexley","display_name":"Chestnut\/ Sweet Chestnut","tree_count":235,"avg_latitude":51.4394390457,"avg_longitude":0.0590750632}
+,{"borough":"Bexley","display_name":"Cypress","tree_count":7,"avg_latitude":50.9846904086,"avg_longitude":-2.0632728831}
+,{"borough":"Bexley","display_name":"Elm","tree_count":73,"avg_latitude":51.4471154658,"avg_longitude":0.1192395207}
+,{"borough":"Bexley","display_name":"Hawthorn","tree_count":353,"avg_latitude":51.4418582912,"avg_longitude":0.0809482381}
+,{"borough":"Bexley","display_name":"Hazel","tree_count":84,"avg_latitude":51.4544336333,"avg_longitude":0.1310819357}
+,{"borough":"Bexley","display_name":"Hornbeam","tree_count":284,"avg_latitude":51.451114032,"avg_longitude":0.114682684}
+,{"borough":"Bexley","display_name":"Lime","tree_count":839,"avg_latitude":50.9766045361,"avg_longitude":0.1472232208}
+,{"borough":"Bexley","display_name":"Maple","tree_count":1488,"avg_latitude":51.4491065929,"avg_longitude":0.089969308}
+,{"borough":"Bexley","display_name":"Oak","tree_count":226,"avg_latitude":50.9966948678,"avg_longitude":0.1117297204}
+,{"borough":"Bexley","display_name":"Other","tree_count":623,"avg_latitude":51.3424081969,"avg_longitude":0.0061880954}
+,{"borough":"Bexley","display_name":"Pear","tree_count":317,"avg_latitude":51.4527484343,"avg_longitude":0.1229819467}
+,{"borough":"Bexley","display_name":"Pine","tree_count":54,"avg_latitude":51.4032672807,"avg_longitude":-0.1442569288}
+,{"borough":"Bexley","display_name":"Plane","tree_count":310,"avg_latitude":51.4529880322,"avg_longitude":0.1147566475}
+,{"borough":"Bexley","display_name":"Poplar","tree_count":6,"avg_latitude":50.3314465133,"avg_longitude":-4.9874997662}
+,{"borough":"Bexley","display_name":"Whitebeam","tree_count":1173,"avg_latitude":51.4491092219,"avg_longitude":0.1034134044}
+,{"borough":"Bexley","display_name":"Willow","tree_count":10,"avg_latitude":51.457343817,"avg_longitude":0.1125033204}
+,{"borough":"Bromley","display_name":"Alder","tree_count":1028,"avg_latitude":51.394274857,"avg_longitude":0.0288298661}
+,{"borough":"Bromley","display_name":"Apple","tree_count":2041,"avg_latitude":51.3913102738,"avg_longitude":0.0210815768}
+,{"borough":"Bromley","display_name":"Ash","tree_count":4419,"avg_latitude":51.3845361445,"avg_longitude":0.04312127}
+,{"borough":"Bromley","display_name":"Beech","tree_count":1223,"avg_latitude":51.3781580794,"avg_longitude":0.0549085959}
+,{"borough":"Bromley","display_name":"Birch","tree_count":2277,"avg_latitude":51.3865714493,"avg_longitude":0.0341759123}
+,{"borough":"Bromley","display_name":"Black Locust","tree_count":579,"avg_latitude":51.3936723541,"avg_longitude":0.0259084209}
+,{"borough":"Bromley","display_name":"Cherry","tree_count":10950,"avg_latitude":51.390709392,"avg_longitude":0.0264026025}
+,{"borough":"Bromley","display_name":"Chestnut\/ Sweet Chestnut","tree_count":2258,"avg_latitude":51.3905749852,"avg_longitude":0.012329393}
+,{"borough":"Bromley","display_name":"Cypress","tree_count":1702,"avg_latitude":51.3953267166,"avg_longitude":0.0298113805}
+,{"borough":"Bromley","display_name":"Elm","tree_count":390,"avg_latitude":51.3889466397,"avg_longitude":0.0555177695}
+,{"borough":"Bromley","display_name":"Hawthorn","tree_count":3020,"avg_latitude":51.3850755832,"avg_longitude":0.0382283947}
+,{"borough":"Bromley","display_name":"Hazel","tree_count":353,"avg_latitude":51.384091044,"avg_longitude":0.0289689465}
+,{"borough":"Bromley","display_name":"Hornbeam","tree_count":1127,"avg_latitude":51.3986652594,"avg_longitude":0.0351117223}
+,{"borough":"Bromley","display_name":"Lime","tree_count":3687,"avg_latitude":51.3968535164,"avg_longitude":0.0173244381}
+,{"borough":"Bromley","display_name":"Maple","tree_count":11441,"avg_latitude":51.3885968126,"avg_longitude":0.0426735918}
+,{"borough":"Bromley","display_name":"Oak","tree_count":5416,"avg_latitude":51.3936443285,"avg_longitude":0.0268403209}
+,{"borough":"Bromley","display_name":"Other","tree_count":7971,"avg_latitude":51.3919779717,"avg_longitude":0.020005627}
+,{"borough":"Bromley","display_name":"Pear","tree_count":900,"avg_latitude":51.3940332587,"avg_longitude":0.0132813507}
+,{"borough":"Bromley","display_name":"Pine","tree_count":1084,"avg_latitude":51.3902617902,"avg_longitude":0.0359513099}
+,{"borough":"Bromley","display_name":"Plane","tree_count":1163,"avg_latitude":51.4034544168,"avg_longitude":0.0003215549}
+,{"borough":"Bromley","display_name":"Poplar","tree_count":1218,"avg_latitude":51.3908219514,"avg_longitude":0.0522038763}
+,{"borough":"Bromley","display_name":"Whitebeam","tree_count":3280,"avg_latitude":51.3896574337,"avg_longitude":0.036295743}
+,{"borough":"Bromley","display_name":"Willow","tree_count":748,"avg_latitude":51.3940366534,"avg_longitude":0.0516908712}
+,{"borough":"Camden","display_name":"Alder","tree_count":281,"avg_latitude":51.543110274,"avg_longitude":-0.1525315238}
+,{"borough":"Camden","display_name":"Apple","tree_count":647,"avg_latitude":51.5321444656,"avg_longitude":-0.2113943665}
+,{"borough":"Camden","display_name":"Ash","tree_count":1224,"avg_latitude":51.5466621335,"avg_longitude":-0.1578786878}
+,{"borough":"Camden","display_name":"Beech","tree_count":133,"avg_latitude":51.5476762023,"avg_longitude":-0.1553528847}
+,{"borough":"Camden","display_name":"Birch","tree_count":1140,"avg_latitude":51.5459189438,"avg_longitude":-0.1569404116}
+,{"borough":"Camden","display_name":"Black Locust","tree_count":506,"avg_latitude":51.5415708329,"avg_longitude":-0.1503284251}
+,{"borough":"Camden","display_name":"Cherry","tree_count":2459,"avg_latitude":51.5459123158,"avg_longitude":-0.1615096569}
+,{"borough":"Camden","display_name":"Chestnut\/ Sweet Chestnut","tree_count":477,"avg_latitude":51.551887436,"avg_longitude":-0.1645842306}
+,{"borough":"Camden","display_name":"Cypress","tree_count":276,"avg_latitude":51.5490752241,"avg_longitude":-0.1598327088}
+,{"borough":"Camden","display_name":"Elm","tree_count":77,"avg_latitude":51.5472183247,"avg_longitude":-0.1584577921}
+,{"borough":"Camden","display_name":"Hawthorn","tree_count":646,"avg_latitude":51.5473337869,"avg_longitude":-0.1589583811}
+,{"borough":"Camden","display_name":"Hazel","tree_count":90,"avg_latitude":51.5446959044,"avg_longitude":-0.1603507328}
+,{"borough":"Camden","display_name":"Hornbeam","tree_count":214,"avg_latitude":51.5435451021,"avg_longitude":-0.1521796856}
+,{"borough":"Camden","display_name":"Lime","tree_count":2315,"avg_latitude":51.5472458318,"avg_longitude":-0.1637980237}
+,{"borough":"Camden","display_name":"Maple","tree_count":2956,"avg_latitude":51.5445123387,"avg_longitude":-0.1591857163}
+,{"borough":"Camden","display_name":"Oak","tree_count":298,"avg_latitude":51.5492429405,"avg_longitude":-0.1606366688}
+,{"borough":"Camden","display_name":"Other","tree_count":2515,"avg_latitude":51.5478642323,"avg_longitude":-0.1572939716}
+,{"borough":"Camden","display_name":"Pear","tree_count":317,"avg_latitude":51.5431996633,"avg_longitude":-0.1519935978}
+,{"borough":"Camden","display_name":"Pine","tree_count":36,"avg_latitude":51.5643158561,"avg_longitude":-0.1663002571}
+,{"borough":"Camden","display_name":"Plane","tree_count":3327,"avg_latitude":51.5389659969,"avg_longitude":-0.1500107844}
+,{"borough":"Camden","display_name":"Poplar","tree_count":140,"avg_latitude":51.5459112381,"avg_longitude":-0.1628286661}
+,{"borough":"Camden","display_name":"Whitebeam","tree_count":1437,"avg_latitude":51.5430494069,"avg_longitude":-0.1516244039}
+,{"borough":"Camden","display_name":"Willow","tree_count":153,"avg_latitude":51.5482818169,"avg_longitude":-0.1562482329}
+,{"borough":"City of London","display_name":"Alder","tree_count":29,"avg_latitude":51.5139094779,"avg_longitude":-0.0919565472}
+,{"borough":"City of London","display_name":"Apple","tree_count":21,"avg_latitude":51.5157757095,"avg_longitude":-0.092562639}
+,{"borough":"City of London","display_name":"Ash","tree_count":57,"avg_latitude":51.5169907274,"avg_longitude":-0.0930845495}
+,{"borough":"City of London","display_name":"Beech","tree_count":24,"avg_latitude":51.514391255,"avg_longitude":-0.0928150448}
+,{"borough":"City of London","display_name":"Birch","tree_count":102,"avg_latitude":51.5151067549,"avg_longitude":-0.095420699}
+,{"borough":"City of London","display_name":"Black Locust","tree_count":24,"avg_latitude":51.51392036,"avg_longitude":-0.0937403353}
+,{"borough":"City of London","display_name":"Cherry","tree_count":89,"avg_latitude":51.5166689291,"avg_longitude":-0.0900667677}
+,{"borough":"City of London","display_name":"Chestnut\/ Sweet Chestnut","tree_count":20,"avg_latitude":51.518290041,"avg_longitude":-0.0916559296}
+,{"borough":"City of London","display_name":"Cypress","tree_count":17,"avg_latitude":51.5137311182,"avg_longitude":-0.0922373668}
+,{"borough":"City of London","display_name":"Elm","tree_count":23,"avg_latitude":51.5131849643,"avg_longitude":-0.0903114123}
+,{"borough":"City of London","display_name":"Hawthorn","tree_count":6,"avg_latitude":51.5165052117,"avg_longitude":-0.0936863053}
+,{"borough":"City of London","display_name":"Hazel","tree_count":24,"avg_latitude":51.5188912371,"avg_longitude":-0.0928576202}
+,{"borough":"City of London","display_name":"Hornbeam","tree_count":54,"avg_latitude":51.5158500296,"avg_longitude":-0.0843289487}
+,{"borough":"City of London","display_name":"Lime","tree_count":175,"avg_latitude":51.5159264894,"avg_longitude":-0.0933545084}
+,{"borough":"City of London","display_name":"Maple","tree_count":68,"avg_latitude":51.5169077451,"avg_longitude":-0.0952524063}
+,{"borough":"City of London","display_name":"Oak","tree_count":88,"avg_latitude":51.5176719651,"avg_longitude":-0.0902301919}
+,{"borough":"City of London","display_name":"Other","tree_count":289,"avg_latitude":51.5153026745,"avg_longitude":-0.0931329447}
+,{"borough":"City of London","display_name":"Pear","tree_count":32,"avg_latitude":51.5175964706,"avg_longitude":-0.0937092923}
+,{"borough":"City of London","display_name":"Plane","tree_count":210,"avg_latitude":51.5170357619,"avg_longitude":-0.0940883202}
+,{"borough":"City of London","display_name":"Whitebeam","tree_count":24,"avg_latitude":51.5167600138,"avg_longitude":-0.0957032392}
+,{"borough":"City of London","display_name":"Willow","tree_count":21,"avg_latitude":51.5201936371,"avg_longitude":-0.0944251177}
+,{"borough":"Ealing","display_name":"Alder","tree_count":499,"avg_latitude":51.5195945099,"avg_longitude":-0.3201528628}
+,{"borough":"Ealing","display_name":"Apple","tree_count":1942,"avg_latitude":51.5205221897,"avg_longitude":-0.3229589594}
+,{"borough":"Ealing","display_name":"Ash","tree_count":2620,"avg_latitude":51.5215167823,"avg_longitude":-0.3326263178}
+,{"borough":"Ealing","display_name":"Beech","tree_count":139,"avg_latitude":51.5139870166,"avg_longitude":-0.310089065}
+,{"borough":"Ealing","display_name":"Birch","tree_count":1788,"avg_latitude":51.5178618816,"avg_longitude":-0.3209216792}
+,{"borough":"Ealing","display_name":"Black Locust","tree_count":275,"avg_latitude":51.517307894,"avg_longitude":-0.3212355918}
+,{"borough":"Ealing","display_name":"Cherry","tree_count":6159,"avg_latitude":51.5188683473,"avg_longitude":-0.3220063751}
+,{"borough":"Ealing","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1517,"avg_latitude":51.5199776113,"avg_longitude":-0.3184663425}
+,{"borough":"Ealing","display_name":"Cypress","tree_count":1239,"avg_latitude":51.5179399601,"avg_longitude":-0.33091106}
+,{"borough":"Ealing","display_name":"Elm","tree_count":468,"avg_latitude":51.5213109875,"avg_longitude":-0.3285012174}
+,{"borough":"Ealing","display_name":"Hawthorn","tree_count":1128,"avg_latitude":51.5215780795,"avg_longitude":-0.3282527146}
+,{"borough":"Ealing","display_name":"Hazel","tree_count":537,"avg_latitude":51.5213189863,"avg_longitude":-0.3162358188}
+,{"borough":"Ealing","display_name":"Hornbeam","tree_count":1490,"avg_latitude":51.5202285442,"avg_longitude":-0.333038774}
+,{"borough":"Ealing","display_name":"Lime","tree_count":5697,"avg_latitude":51.5189562052,"avg_longitude":-0.3164845754}
+,{"borough":"Ealing","display_name":"Maple","tree_count":4624,"avg_latitude":51.519070813,"avg_longitude":-0.324805271}
+,{"borough":"Ealing","display_name":"Oak","tree_count":1174,"avg_latitude":51.5214465608,"avg_longitude":-0.321963098}
+,{"borough":"Ealing","display_name":"Other","tree_count":3156,"avg_latitude":51.514337924,"avg_longitude":-0.3179294076}
+,{"borough":"Ealing","display_name":"Pear","tree_count":1112,"avg_latitude":51.5169004418,"avg_longitude":-0.3163049591}
+,{"borough":"Ealing","display_name":"Pine","tree_count":162,"avg_latitude":51.517740508,"avg_longitude":-0.3216891446}
+,{"borough":"Ealing","display_name":"Plane","tree_count":1875,"avg_latitude":51.5145161234,"avg_longitude":-0.3125695204}
+,{"borough":"Ealing","display_name":"Poplar","tree_count":607,"avg_latitude":51.5215087157,"avg_longitude":-0.3381123714}
+,{"borough":"Ealing","display_name":"Whitebeam","tree_count":2318,"avg_latitude":51.519121335,"avg_longitude":-0.3221037334}
+,{"borough":"Ealing","display_name":"Willow","tree_count":278,"avg_latitude":51.5205628166,"avg_longitude":-0.3322276848}
+,{"borough":"Enfield","display_name":"Alder","tree_count":974,"avg_latitude":51.653394749,"avg_longitude":-0.0936762657}
+,{"borough":"Enfield","display_name":"Apple","tree_count":888,"avg_latitude":51.6464315142,"avg_longitude":-0.0738767209}
+,{"borough":"Enfield","display_name":"Ash","tree_count":5336,"avg_latitude":51.6567612282,"avg_longitude":-0.0900368545}
+,{"borough":"Enfield","display_name":"Beech","tree_count":1718,"avg_latitude":51.6631475601,"avg_longitude":-0.1185212624}
+,{"borough":"Enfield","display_name":"Birch","tree_count":4138,"avg_latitude":51.6574048638,"avg_longitude":-0.1081987462}
+,{"borough":"Enfield","display_name":"Black Locust","tree_count":404,"avg_latitude":51.6421187837,"avg_longitude":-0.0753630124}
+,{"borough":"Enfield","display_name":"Cherry","tree_count":4948,"avg_latitude":51.6477454149,"avg_longitude":-0.0881913616}
+,{"borough":"Enfield","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1916,"avg_latitude":51.6547802029,"avg_longitude":-0.1084140365}
+,{"borough":"Enfield","display_name":"Cypress","tree_count":1402,"avg_latitude":51.6424654492,"avg_longitude":-0.0952716808}
+,{"borough":"Enfield","display_name":"Elm","tree_count":1404,"avg_latitude":51.6643476323,"avg_longitude":-0.0940621652}
+,{"borough":"Enfield","display_name":"Hawthorn","tree_count":2984,"avg_latitude":51.6570726709,"avg_longitude":-0.0862321105}
+,{"borough":"Enfield","display_name":"Hazel","tree_count":516,"avg_latitude":51.6483365474,"avg_longitude":-0.0927244217}
+,{"borough":"Enfield","display_name":"Hornbeam","tree_count":7406,"avg_latitude":51.6646713152,"avg_longitude":-0.1030130328}
+,{"borough":"Enfield","display_name":"Lime","tree_count":3875,"avg_latitude":51.6434283785,"avg_longitude":-0.0910594562}
+,{"borough":"Enfield","display_name":"Maple","tree_count":6985,"avg_latitude":51.6501916719,"avg_longitude":-0.0890113463}
+,{"borough":"Enfield","display_name":"Oak","tree_count":11288,"avg_latitude":51.65690266,"avg_longitude":-0.1091658099}
+,{"borough":"Enfield","display_name":"Other","tree_count":3067,"avg_latitude":51.6503089217,"avg_longitude":-0.0985728886}
+,{"borough":"Enfield","display_name":"Pear","tree_count":362,"avg_latitude":51.6370179848,"avg_longitude":-0.0799477077}
+,{"borough":"Enfield","display_name":"Pine","tree_count":1732,"avg_latitude":51.6576653601,"avg_longitude":-0.1188347819}
+,{"borough":"Enfield","display_name":"Plane","tree_count":1201,"avg_latitude":51.6336252732,"avg_longitude":-0.084125983}
+,{"borough":"Enfield","display_name":"Poplar","tree_count":1354,"avg_latitude":51.6537788309,"avg_longitude":-0.0876671334}
+,{"borough":"Enfield","display_name":"Whitebeam","tree_count":1015,"avg_latitude":51.6434651036,"avg_longitude":-0.0795606525}
+,{"borough":"Enfield","display_name":"Willow","tree_count":1237,"avg_latitude":51.6559620186,"avg_longitude":-0.08449035}
+,{"borough":"Greenwich","display_name":"Alder","tree_count":61,"avg_latitude":51.4909598908,"avg_longitude":0.0376925511}
+,{"borough":"Greenwich","display_name":"Apple","tree_count":503,"avg_latitude":51.4745777396,"avg_longitude":0.0813979186}
+,{"borough":"Greenwich","display_name":"Ash","tree_count":460,"avg_latitude":51.4794215778,"avg_longitude":0.0646951048}
+,{"borough":"Greenwich","display_name":"Beech","tree_count":40,"avg_latitude":51.4757905668,"avg_longitude":0.0432672139}
+,{"borough":"Greenwich","display_name":"Birch","tree_count":442,"avg_latitude":51.4753306975,"avg_longitude":0.0557523496}
+,{"borough":"Greenwich","display_name":"Black Locust","tree_count":110,"avg_latitude":51.4861157299,"avg_longitude":0.0597178537}
+,{"borough":"Greenwich","display_name":"Cherry","tree_count":2708,"avg_latitude":51.4691983662,"avg_longitude":0.0619956362}
+,{"borough":"Greenwich","display_name":"Chestnut\/ Sweet Chestnut","tree_count":242,"avg_latitude":51.4519271943,"avg_longitude":0.0591669814}
+,{"borough":"Greenwich","display_name":"Cypress","tree_count":55,"avg_latitude":51.4838184638,"avg_longitude":0.0613220591}
+,{"borough":"Greenwich","display_name":"Elm","tree_count":14,"avg_latitude":51.4533753843,"avg_longitude":0.0306516274}
+,{"borough":"Greenwich","display_name":"Hawthorn","tree_count":310,"avg_latitude":51.4792707449,"avg_longitude":0.0339316308}
+,{"borough":"Greenwich","display_name":"Hazel","tree_count":15,"avg_latitude":51.492021236,"avg_longitude":0.0829417254}
+,{"borough":"Greenwich","display_name":"Hornbeam","tree_count":323,"avg_latitude":51.4585086584,"avg_longitude":0.0608810674}
+,{"borough":"Greenwich","display_name":"Lime","tree_count":876,"avg_latitude":51.4752161871,"avg_longitude":0.0469723248}
+,{"borough":"Greenwich","display_name":"Maple","tree_count":1726,"avg_latitude":51.4740975905,"avg_longitude":0.0585255891}
+,{"borough":"Greenwich","display_name":"Oak","tree_count":108,"avg_latitude":51.4622958813,"avg_longitude":0.0627591442}
+,{"borough":"Greenwich","display_name":"Other","tree_count":613,"avg_latitude":51.4711145736,"avg_longitude":0.0496933356}
+,{"borough":"Greenwich","display_name":"Pear","tree_count":703,"avg_latitude":51.4744734676,"avg_longitude":0.0516612514}
+,{"borough":"Greenwich","display_name":"Pine","tree_count":38,"avg_latitude":51.4859720816,"avg_longitude":0.0646817444}
+,{"borough":"Greenwich","display_name":"Plane","tree_count":800,"avg_latitude":51.4829476408,"avg_longitude":0.0416848549}
+,{"borough":"Greenwich","display_name":"Poplar","tree_count":113,"avg_latitude":51.4902472881,"avg_longitude":0.082871024}
+,{"borough":"Greenwich","display_name":"Whitebeam","tree_count":1787,"avg_latitude":51.4704133754,"avg_longitude":0.0619435182}
+,{"borough":"Greenwich","display_name":"Willow","tree_count":40,"avg_latitude":51.4915144723,"avg_longitude":0.0716172785}
+,{"borough":"Hammersmith and Fulham","display_name":"Alder","tree_count":204,"avg_latitude":51.4929267638,"avg_longitude":-0.2246557786}
+,{"borough":"Hammersmith and Fulham","display_name":"Apple","tree_count":515,"avg_latitude":51.4862071183,"avg_longitude":-0.2272532649}
+,{"borough":"Hammersmith and Fulham","display_name":"Ash","tree_count":397,"avg_latitude":51.4878106884,"avg_longitude":-0.2263328601}
+,{"borough":"Hammersmith and Fulham","display_name":"Beech","tree_count":58,"avg_latitude":51.4811681686,"avg_longitude":-0.2233045086}
+,{"borough":"Hammersmith and Fulham","display_name":"Birch","tree_count":714,"avg_latitude":51.510635298,"avg_longitude":-0.2227435773}
+,{"borough":"Hammersmith and Fulham","display_name":"Black Locust","tree_count":315,"avg_latitude":51.4893709527,"avg_longitude":-0.2216339404}
+,{"borough":"Hammersmith and Fulham","display_name":"Cherry","tree_count":2969,"avg_latitude":51.4885995184,"avg_longitude":-0.2226203648}
+,{"borough":"Hammersmith and Fulham","display_name":"Chestnut","tree_count":19,"avg_latitude":51.4985152795,"avg_longitude":-0.2267431352}
+,{"borough":"Hammersmith and Fulham","display_name":"Chestnut\/ Sweet Chestnut","tree_count":180,"avg_latitude":51.4848829923,"avg_longitude":-0.2449197228}
+,{"borough":"Hammersmith and Fulham","display_name":"Cypress","tree_count":296,"avg_latitude":51.4782070182,"avg_longitude":-0.2472040724}
+,{"borough":"Hammersmith and Fulham","display_name":"Elm","tree_count":63,"avg_latitude":51.4847997648,"avg_longitude":-0.22253571}
+,{"borough":"Hammersmith and Fulham","display_name":"Hawthorn","tree_count":249,"avg_latitude":51.4905281232,"avg_longitude":-0.228547594}
+,{"borough":"Hammersmith and Fulham","display_name":"Hazel","tree_count":87,"avg_latitude":51.4893379052,"avg_longitude":-0.2187301307}
+,{"borough":"Hammersmith and Fulham","display_name":"Hornbeam","tree_count":278,"avg_latitude":51.4903303708,"avg_longitude":-0.2208243104}
+,{"borough":"Hammersmith and Fulham","display_name":"Lime","tree_count":1134,"avg_latitude":51.4920164722,"avg_longitude":-0.2260167389}
+,{"borough":"Hammersmith and Fulham","display_name":"Maple","tree_count":1445,"avg_latitude":51.4621968684,"avg_longitude":-0.2944800588}
+,{"borough":"Hammersmith and Fulham","display_name":"Oak","tree_count":234,"avg_latitude":51.4880834036,"avg_longitude":-0.2346761095}
+,{"borough":"Hammersmith and Fulham","display_name":"Other","tree_count":2497,"avg_latitude":51.490824793,"avg_longitude":-0.2255664844}
+,{"borough":"Hammersmith and Fulham","display_name":"Pear","tree_count":939,"avg_latitude":51.4562113831,"avg_longitude":-0.3268768209}
+,{"borough":"Hammersmith and Fulham","display_name":"Pine","tree_count":51,"avg_latitude":51.4846996792,"avg_longitude":-0.2378752434}
+,{"borough":"Hammersmith and Fulham","display_name":"Plane","tree_count":2344,"avg_latitude":51.4880322053,"avg_longitude":-0.2181691603}
+,{"borough":"Hammersmith and Fulham","display_name":"Poplar","tree_count":145,"avg_latitude":51.4884739083,"avg_longitude":-0.2359441061}
+,{"borough":"Hammersmith and Fulham","display_name":"Whitebeam","tree_count":1224,"avg_latitude":51.4886795609,"avg_longitude":-0.2213568709}
+,{"borough":"Hammersmith and Fulham","display_name":"Willow","tree_count":100,"avg_latitude":51.488725159,"avg_longitude":-0.2316165207}
+,{"borough":"Harrow","display_name":"Alder","tree_count":589,"avg_latitude":51.5846448219,"avg_longitude":-0.3558714362}
+,{"borough":"Harrow","display_name":"Apple","tree_count":1865,"avg_latitude":51.5855496608,"avg_longitude":-0.3655846594}
+,{"borough":"Harrow","display_name":"Ash","tree_count":2751,"avg_latitude":51.5865210555,"avg_longitude":-0.3764580529}
+,{"borough":"Harrow","display_name":"Beech","tree_count":181,"avg_latitude":51.5047439977,"avg_longitude":-0.6968781817}
+,{"borough":"Harrow","display_name":"Birch","tree_count":1828,"avg_latitude":51.5874949034,"avg_longitude":-0.36561148}
+,{"borough":"Harrow","display_name":"Black Locust","tree_count":330,"avg_latitude":51.5935344405,"avg_longitude":-0.3345368843}
+,{"borough":"Harrow","display_name":"Cherry","tree_count":5812,"avg_latitude":51.5880410248,"avg_longitude":-0.3537218243}
+,{"borough":"Harrow","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1007,"avg_latitude":51.5928270185,"avg_longitude":-0.3492134344}
+,{"borough":"Harrow","display_name":"Cypress","tree_count":2321,"avg_latitude":51.5913011423,"avg_longitude":-0.3529690756}
+,{"borough":"Harrow","display_name":"Elm","tree_count":418,"avg_latitude":51.5800052759,"avg_longitude":-0.3720723888}
+,{"borough":"Harrow","display_name":"Hawthorn","tree_count":1623,"avg_latitude":51.5850348831,"avg_longitude":-0.3701342562}
+,{"borough":"Harrow","display_name":"Hazel","tree_count":167,"avg_latitude":51.5952570843,"avg_longitude":-0.3422816759}
+,{"borough":"Harrow","display_name":"Hornbeam","tree_count":933,"avg_latitude":51.5713581581,"avg_longitude":-0.4466466949}
+,{"borough":"Harrow","display_name":"Lime","tree_count":1509,"avg_latitude":51.5930585006,"avg_longitude":-0.3471555779}
+,{"borough":"Harrow","display_name":"Maple","tree_count":4587,"avg_latitude":51.5880052592,"avg_longitude":-0.3574103385}
+,{"borough":"Harrow","display_name":"Oak","tree_count":2415,"avg_latitude":51.5889408519,"avg_longitude":-0.3839745985}
+,{"borough":"Harrow","display_name":"Other","tree_count":2662,"avg_latitude":51.5923102736,"avg_longitude":-0.351076117}
+,{"borough":"Harrow","display_name":"Pear","tree_count":428,"avg_latitude":51.5920701951,"avg_longitude":-0.3408837842}
+,{"borough":"Harrow","display_name":"Pine","tree_count":648,"avg_latitude":51.5929764699,"avg_longitude":-0.3603543857}
+,{"borough":"Harrow","display_name":"Plane","tree_count":908,"avg_latitude":51.5858644591,"avg_longitude":-0.3403575817}
+,{"borough":"Harrow","display_name":"Poplar","tree_count":553,"avg_latitude":51.5891636883,"avg_longitude":-0.3382655923}
+,{"borough":"Harrow","display_name":"Whitebeam","tree_count":1110,"avg_latitude":51.5821147163,"avg_longitude":-0.3762265482}
+,{"borough":"Harrow","display_name":"Willow","tree_count":1111,"avg_latitude":51.583052943,"avg_longitude":-0.371212581}
+,{"borough":"Hillingdon","display_name":"Alder","tree_count":299,"avg_latitude":51.5573153153,"avg_longitude":-0.4397857892}
+,{"borough":"Hillingdon","display_name":"Apple","tree_count":1297,"avg_latitude":51.5401845605,"avg_longitude":-0.400602366}
+,{"borough":"Hillingdon","display_name":"Ash","tree_count":1021,"avg_latitude":51.5563655519,"avg_longitude":-0.4391578725}
+,{"borough":"Hillingdon","display_name":"Beech","tree_count":217,"avg_latitude":51.5648105583,"avg_longitude":-0.4350775485}
+,{"borough":"Hillingdon","display_name":"Birch","tree_count":1137,"avg_latitude":51.5228289511,"avg_longitude":-0.3504425559}
+,{"borough":"Hillingdon","display_name":"Cherry","tree_count":3794,"avg_latitude":51.5490229066,"avg_longitude":-0.43247852}
+,{"borough":"Hillingdon","display_name":"Chestnut\/ Sweet Chestnut","tree_count":497,"avg_latitude":51.5455180375,"avg_longitude":-0.4450516699}
+,{"borough":"Hillingdon","display_name":"Cypress","tree_count":695,"avg_latitude":51.5642537056,"avg_longitude":-0.4356001069}
+,{"borough":"Hillingdon","display_name":"Elm","tree_count":322,"avg_latitude":51.5612270022,"avg_longitude":-0.4445931387}
+,{"borough":"Hillingdon","display_name":"Hawthorn","tree_count":827,"avg_latitude":51.5590043184,"avg_longitude":-0.4425666164}
+,{"borough":"Hillingdon","display_name":"Hazel","tree_count":132,"avg_latitude":51.5583155722,"avg_longitude":-0.4347512554}
+,{"borough":"Hillingdon","display_name":"Hornbeam","tree_count":741,"avg_latitude":51.5478486846,"avg_longitude":-0.4420851235}
+,{"borough":"Hillingdon","display_name":"Lime","tree_count":1078,"avg_latitude":51.5548971381,"avg_longitude":-0.4406381407}
+,{"borough":"Hillingdon","display_name":"Maple","tree_count":3730,"avg_latitude":51.5464796259,"avg_longitude":-0.4361968896}
+,{"borough":"Hillingdon","display_name":"Oak","tree_count":730,"avg_latitude":51.5605196304,"avg_longitude":-0.441981904}
+,{"borough":"Hillingdon","display_name":"Other","tree_count":2293,"avg_latitude":51.5540837277,"avg_longitude":-0.4381511613}
+,{"borough":"Hillingdon","display_name":"Pear","tree_count":521,"avg_latitude":51.5459759629,"avg_longitude":-0.4371453217}
+,{"borough":"Hillingdon","display_name":"Pine","tree_count":204,"avg_latitude":51.5678906261,"avg_longitude":-0.4457640149}
+,{"borough":"Hillingdon","display_name":"Plane","tree_count":328,"avg_latitude":51.5322635789,"avg_longitude":-0.4385398561}
+,{"borough":"Hillingdon","display_name":"Poplar","tree_count":141,"avg_latitude":51.5653073857,"avg_longitude":-0.43692572}
+,{"borough":"Hillingdon","display_name":"Whitebeam","tree_count":1275,"avg_latitude":51.5374104678,"avg_longitude":-0.4077548146}
+,{"borough":"Hillingdon","display_name":"Willow","tree_count":209,"avg_latitude":51.5761025271,"avg_longitude":-0.4402002934}
+,{"borough":"Hounslow","display_name":"Alder","tree_count":287,"avg_latitude":51.4746491236,"avg_longitude":-0.3404323129}
+,{"borough":"Hounslow","display_name":"Apple","tree_count":619,"avg_latitude":51.4689373023,"avg_longitude":-0.3608765321}
+,{"borough":"Hounslow","display_name":"Ash","tree_count":1786,"avg_latitude":51.4636725865,"avg_longitude":-0.3670350552}
+,{"borough":"Hounslow","display_name":"Beech","tree_count":385,"avg_latitude":51.4758226775,"avg_longitude":-0.3330727898}
+,{"borough":"Hounslow","display_name":"Birch","tree_count":1349,"avg_latitude":51.4701833276,"avg_longitude":-0.3630441727}
+,{"borough":"Hounslow","display_name":"Black Locust","tree_count":597,"avg_latitude":51.4671526489,"avg_longitude":-0.3733649669}
+,{"borough":"Hounslow","display_name":"Cherry","tree_count":3753,"avg_latitude":51.460247767,"avg_longitude":-0.4091983859}
+,{"borough":"Hounslow","display_name":"Chestnut\/ Sweet Chestnut","tree_count":912,"avg_latitude":51.480081106,"avg_longitude":-0.3132426546}
+,{"borough":"Hounslow","display_name":"Cypress","tree_count":632,"avg_latitude":51.4629586365,"avg_longitude":-0.3759505541}
+,{"borough":"Hounslow","display_name":"Elm","tree_count":266,"avg_latitude":51.4284063227,"avg_longitude":-0.5213317135}
+,{"borough":"Hounslow","display_name":"Hawthorn","tree_count":1208,"avg_latitude":51.4484349131,"avg_longitude":-0.4514425587}
+,{"borough":"Hounslow","display_name":"Hazel","tree_count":172,"avg_latitude":51.3795150805,"avg_longitude":-0.7428590739}
+,{"borough":"Hounslow","display_name":"Hornbeam","tree_count":585,"avg_latitude":51.4721711386,"avg_longitude":-0.3387558517}
+,{"borough":"Hounslow","display_name":"Lime","tree_count":2817,"avg_latitude":51.4756849466,"avg_longitude":-0.3320173202}
+,{"borough":"Hounslow","display_name":"Maple","tree_count":4483,"avg_latitude":51.4701199222,"avg_longitude":-0.3572708645}
+,{"borough":"Hounslow","display_name":"Oak","tree_count":1920,"avg_latitude":51.4611849178,"avg_longitude":-0.3802732148}
+,{"borough":"Hounslow","display_name":"Other","tree_count":6391,"avg_latitude":51.4593810606,"avg_longitude":-0.4011293833}
+,{"borough":"Hounslow","display_name":"Pear","tree_count":280,"avg_latitude":51.4666734609,"avg_longitude":-0.3824553127}
+,{"borough":"Hounslow","display_name":"Pine","tree_count":265,"avg_latitude":51.4758353551,"avg_longitude":-0.3503465942}
+,{"borough":"Hounslow","display_name":"Plane","tree_count":1567,"avg_latitude":51.4745663835,"avg_longitude":-0.3337941902}
+,{"borough":"Hounslow","display_name":"Poplar","tree_count":790,"avg_latitude":51.4669737799,"avg_longitude":-0.3654540496}
+,{"borough":"Hounslow","display_name":"Whitebeam","tree_count":1191,"avg_latitude":51.4682853131,"avg_longitude":-0.3687129053}
+,{"borough":"Hounslow","display_name":"Willow","tree_count":446,"avg_latitude":51.4680729429,"avg_longitude":-0.357561392}
+,{"borough":"Islington","display_name":"Alder","tree_count":432,"avg_latitude":51.5488126334,"avg_longitude":-0.1118499265}
+,{"borough":"Islington","display_name":"Apple","tree_count":1451,"avg_latitude":51.5509875995,"avg_longitude":-0.1116208514}
+,{"borough":"Islington","display_name":"Ash","tree_count":2207,"avg_latitude":51.5518024523,"avg_longitude":-0.1121806938}
+,{"borough":"Islington","display_name":"Beech","tree_count":130,"avg_latitude":51.553309851,"avg_longitude":-0.1103123}
+,{"borough":"Islington","display_name":"Birch","tree_count":1727,"avg_latitude":51.5504982949,"avg_longitude":-0.1113865328}
+,{"borough":"Islington","display_name":"Cherry","tree_count":5328,"avg_latitude":51.5502130928,"avg_longitude":-0.1110824603}
+,{"borough":"Islington","display_name":"Chestnut\/ Sweet Chestnut","tree_count":552,"avg_latitude":51.5520159583,"avg_longitude":-0.1094619792}
+,{"borough":"Islington","display_name":"Cypress","tree_count":425,"avg_latitude":51.5496542016,"avg_longitude":-0.1104579712}
+,{"borough":"Islington","display_name":"Elm","tree_count":138,"avg_latitude":51.555383028,"avg_longitude":-0.1146485132}
+,{"borough":"Islington","display_name":"Hawthorn","tree_count":761,"avg_latitude":51.5501438106,"avg_longitude":-0.1081530487}
+,{"borough":"Islington","display_name":"Hazel","tree_count":329,"avg_latitude":51.5499228822,"avg_longitude":-0.1109554952}
+,{"borough":"Islington","display_name":"Hornbeam","tree_count":307,"avg_latitude":51.5471859539,"avg_longitude":-0.1118536209}
+,{"borough":"Islington","display_name":"Lime","tree_count":2845,"avg_latitude":51.5524744201,"avg_longitude":-0.1112421894}
+,{"borough":"Islington","display_name":"Maple","tree_count":6029,"avg_latitude":51.5519464223,"avg_longitude":-0.1105457377}
+,{"borough":"Islington","display_name":"Oak","tree_count":449,"avg_latitude":51.5600396093,"avg_longitude":-0.111769844}
+,{"borough":"Islington","display_name":"Other","tree_count":5074,"avg_latitude":51.5483066533,"avg_longitude":-0.1092972371}
+,{"borough":"Islington","display_name":"Pear","tree_count":894,"avg_latitude":51.55042314,"avg_longitude":-0.1097776471}
+,{"borough":"Islington","display_name":"Pine","tree_count":51,"avg_latitude":51.5528986363,"avg_longitude":-0.1108786348}
+,{"borough":"Islington","display_name":"Plane","tree_count":2586,"avg_latitude":51.5477275898,"avg_longitude":-0.1064700868}
+,{"borough":"Islington","display_name":"Poplar","tree_count":300,"avg_latitude":51.5575477941,"avg_longitude":-0.119449497}
+,{"borough":"Islington","display_name":"Whitebeam","tree_count":3389,"avg_latitude":51.5507919636,"avg_longitude":-0.1101419385}
+,{"borough":"Islington","display_name":"Willow","tree_count":376,"avg_latitude":51.5511579963,"avg_longitude":-0.1118872166}
+,{"borough":"Kensington and Chelsea","display_name":"Alder","tree_count":61,"avg_latitude":51.5064779933,"avg_longitude":-0.2034824168}
+,{"borough":"Kensington and Chelsea","display_name":"Apple","tree_count":263,"avg_latitude":51.4972971378,"avg_longitude":-0.1861715848}
+,{"borough":"Kensington and Chelsea","display_name":"Ash","tree_count":38,"avg_latitude":51.5042052242,"avg_longitude":-0.1990164003}
+,{"borough":"Kensington and Chelsea","display_name":"Beech","tree_count":1,"avg_latitude":51.52575173,"avg_longitude":-0.209459148}
+,{"borough":"Kensington and Chelsea","display_name":"Birch","tree_count":327,"avg_latitude":51.5027718379,"avg_longitude":-0.1970435115}
+,{"borough":"Kensington and Chelsea","display_name":"Black Locust","tree_count":123,"avg_latitude":51.5078039369,"avg_longitude":-0.2025511721}
+,{"borough":"Kensington and Chelsea","display_name":"Cherry","tree_count":1194,"avg_latitude":51.5058894995,"avg_longitude":-0.2006189518}
+,{"borough":"Kensington and Chelsea","display_name":"Chestnut\/ Sweet Chestnut","tree_count":37,"avg_latitude":51.5004429262,"avg_longitude":-0.1949923715}
+,{"borough":"Kensington and Chelsea","display_name":"Cypress","tree_count":33,"avg_latitude":51.5070830158,"avg_longitude":-0.1958192584}
+,{"borough":"Kensington and Chelsea","display_name":"Elm","tree_count":56,"avg_latitude":51.501826677,"avg_longitude":-0.1954121553}
+,{"borough":"Kensington and Chelsea","display_name":"Hawthorn","tree_count":85,"avg_latitude":51.5050550705,"avg_longitude":-0.1996324529}
+,{"borough":"Kensington and Chelsea","display_name":"Hazel","tree_count":214,"avg_latitude":51.5054757272,"avg_longitude":-0.1931735653}
+,{"borough":"Kensington and Chelsea","display_name":"Hornbeam","tree_count":34,"avg_latitude":51.5134737588,"avg_longitude":-0.2132926104}
+,{"borough":"Kensington and Chelsea","display_name":"Lime","tree_count":461,"avg_latitude":51.5063191164,"avg_longitude":-0.2021893759}
+,{"borough":"Kensington and Chelsea","display_name":"Maple","tree_count":445,"avg_latitude":51.5056370081,"avg_longitude":-0.1988617002}
+,{"borough":"Kensington and Chelsea","display_name":"Oak","tree_count":39,"avg_latitude":51.5126733087,"avg_longitude":-0.1960571832}
+,{"borough":"Kensington and Chelsea","display_name":"Other","tree_count":593,"avg_latitude":51.4982581916,"avg_longitude":-0.2049752131}
+,{"borough":"Kensington and Chelsea","display_name":"Pear","tree_count":521,"avg_latitude":51.4989081394,"avg_longitude":-0.209287649}
+,{"borough":"Kensington and Chelsea","display_name":"Pine","tree_count":1,"avg_latitude":51.48678099,"avg_longitude":-0.170929743}
+,{"borough":"Kensington and Chelsea","display_name":"Plane","tree_count":1933,"avg_latitude":51.5021250002,"avg_longitude":-0.1992407368}
+,{"borough":"Kensington and Chelsea","display_name":"Poplar","tree_count":3,"avg_latitude":51.51072964,"avg_longitude":-0.2005322607}
+,{"borough":"Kensington and Chelsea","display_name":"Whitebeam","tree_count":148,"avg_latitude":51.5041044447,"avg_longitude":-0.1982949302}
+,{"borough":"Lambeth ","display_name":"Alder","tree_count":114,"avg_latitude":51.4592248189,"avg_longitude":-0.1155710971}
+,{"borough":"Lambeth ","display_name":"Apple","tree_count":615,"avg_latitude":51.4501175748,"avg_longitude":-0.1176064526}
+,{"borough":"Lambeth ","display_name":"Ash","tree_count":487,"avg_latitude":51.4528948728,"avg_longitude":-0.1117773979}
+,{"borough":"Lambeth ","display_name":"Beech","tree_count":67,"avg_latitude":51.4462717766,"avg_longitude":-0.1073539663}
+,{"borough":"Lambeth ","display_name":"Birch","tree_count":653,"avg_latitude":51.4565995894,"avg_longitude":-0.1176544995}
+,{"borough":"Lambeth ","display_name":"Black Locust","tree_count":205,"avg_latitude":51.4611152952,"avg_longitude":-0.1130898681}
+,{"borough":"Lambeth ","display_name":"Cherry","tree_count":1398,"avg_latitude":51.4520772401,"avg_longitude":-0.1166036936}
+,{"borough":"Lambeth ","display_name":"Chestnut\/ Sweet Chestnut","tree_count":480,"avg_latitude":51.4444264253,"avg_longitude":-0.1095561323}
+,{"borough":"Lambeth ","display_name":"Cypress","tree_count":39,"avg_latitude":51.446507989,"avg_longitude":-0.1102425906}
+,{"borough":"Lambeth ","display_name":"Elm","tree_count":37,"avg_latitude":51.4600486149,"avg_longitude":-0.1093008106}
+,{"borough":"Lambeth ","display_name":"Hawthorn","tree_count":544,"avg_latitude":51.454259433,"avg_longitude":-0.1168826118}
+,{"borough":"Lambeth ","display_name":"Hazel","tree_count":82,"avg_latitude":51.4576221638,"avg_longitude":-0.1196105003}
+,{"borough":"Lambeth ","display_name":"Hornbeam","tree_count":275,"avg_latitude":51.4442262755,"avg_longitude":-0.1185967638}
+,{"borough":"Lambeth ","display_name":"Lime","tree_count":893,"avg_latitude":51.4538062682,"avg_longitude":-0.115392556}
+,{"borough":"Lambeth ","display_name":"Maple","tree_count":1629,"avg_latitude":51.4505856264,"avg_longitude":-0.1181525136}
+,{"borough":"Lambeth ","display_name":"Oak","tree_count":279,"avg_latitude":51.4378475415,"avg_longitude":-0.1080215203}
+,{"borough":"Lambeth ","display_name":"Other","tree_count":913,"avg_latitude":51.4606549903,"avg_longitude":-0.1133890859}
+,{"borough":"Lambeth ","display_name":"Pear","tree_count":303,"avg_latitude":51.4617106178,"avg_longitude":-0.1164418622}
+,{"borough":"Lambeth ","display_name":"Pine","tree_count":13,"avg_latitude":51.4398520285,"avg_longitude":-0.113812588}
+,{"borough":"Lambeth ","display_name":"Plane","tree_count":1034,"avg_latitude":51.4560086327,"avg_longitude":-0.111226004}
+,{"borough":"Lambeth ","display_name":"Poplar","tree_count":94,"avg_latitude":51.4480901563,"avg_longitude":-0.1074727778}
+,{"borough":"Lambeth ","display_name":"Whitebeam","tree_count":1085,"avg_latitude":51.4486987599,"avg_longitude":-0.1224231114}
+,{"borough":"Lambeth ","display_name":"Willow","tree_count":73,"avg_latitude":51.4402423175,"avg_longitude":-0.1152578762}
+,{"borough":"Lewisham","display_name":"Alder","tree_count":127,"avg_latitude":51.4490553094,"avg_longitude":-0.0464551973}
+,{"borough":"Lewisham","display_name":"Apple","tree_count":228,"avg_latitude":51.4514585209,"avg_longitude":-0.0427654289}
+,{"borough":"Lewisham","display_name":"Ash","tree_count":828,"avg_latitude":51.4477616094,"avg_longitude":-0.041814295}
+,{"borough":"Lewisham","display_name":"Beech","tree_count":108,"avg_latitude":51.4421071254,"avg_longitude":-0.048738999}
+,{"borough":"Lewisham","display_name":"Birch","tree_count":716,"avg_latitude":51.4544559409,"avg_longitude":-0.0427347161}
+,{"borough":"Lewisham","display_name":"Cherry","tree_count":1910,"avg_latitude":51.4551237069,"avg_longitude":-0.0430684124}
+,{"borough":"Lewisham","display_name":"Chestnut\/ Sweet Chestnut","tree_count":456,"avg_latitude":51.4436498149,"avg_longitude":-0.045183453}
+,{"borough":"Lewisham","display_name":"Cypress","tree_count":204,"avg_latitude":51.4532669543,"avg_longitude":-0.0441394355}
+,{"borough":"Lewisham","display_name":"Elm","tree_count":10,"avg_latitude":51.447637913,"avg_longitude":-0.0471567784}
+,{"borough":"Lewisham","display_name":"Hawthorn","tree_count":430,"avg_latitude":51.4415700186,"avg_longitude":-0.0423088472}
+,{"borough":"Lewisham","display_name":"Hazel","tree_count":59,"avg_latitude":51.4560145644,"avg_longitude":-0.0463422051}
+,{"borough":"Lewisham","display_name":"Hornbeam","tree_count":283,"avg_latitude":51.4529734478,"avg_longitude":-0.0447179761}
+,{"borough":"Lewisham","display_name":"Lime","tree_count":1259,"avg_latitude":51.448949424,"avg_longitude":-0.045827398}
+,{"borough":"Lewisham","display_name":"Maple","tree_count":2271,"avg_latitude":51.4530753234,"avg_longitude":-0.0450277189}
+,{"borough":"Lewisham","display_name":"Oak","tree_count":641,"avg_latitude":51.4292979773,"avg_longitude":-0.0327597944}
+,{"borough":"Lewisham","display_name":"Other","tree_count":1392,"avg_latitude":51.456686829,"avg_longitude":-0.0430517647}
+,{"borough":"Lewisham","display_name":"Pear","tree_count":169,"avg_latitude":51.4495779536,"avg_longitude":-0.042556078}
+,{"borough":"Lewisham","display_name":"Pine","tree_count":44,"avg_latitude":51.4324052239,"avg_longitude":-0.0386829817}
+,{"borough":"Lewisham","display_name":"Plane","tree_count":1206,"avg_latitude":51.4652474169,"avg_longitude":-0.0397066209}
+,{"borough":"Lewisham","display_name":"Poplar","tree_count":309,"avg_latitude":51.4630444072,"avg_longitude":-0.0386789752}
+,{"borough":"Lewisham","display_name":"Whitebeam","tree_count":961,"avg_latitude":51.4590700857,"avg_longitude":-0.0415533207}
+,{"borough":"Lewisham","display_name":"Willow","tree_count":123,"avg_latitude":51.4475293314,"avg_longitude":-0.0378784361}
+,{"borough":"Merton ","display_name":"Alder","tree_count":163,"avg_latitude":51.4034601734,"avg_longitude":-0.1919841149}
+,{"borough":"Merton ","display_name":"Apple","tree_count":414,"avg_latitude":51.4094178207,"avg_longitude":-0.1956630711}
+,{"borough":"Merton ","display_name":"Ash","tree_count":891,"avg_latitude":51.4050041083,"avg_longitude":-0.1935462184}
+,{"borough":"Merton ","display_name":"Beech","tree_count":154,"avg_latitude":51.4067546252,"avg_longitude":-0.1988650276}
+,{"borough":"Merton ","display_name":"Birch","tree_count":774,"avg_latitude":51.4080111896,"avg_longitude":-0.2002525963}
+,{"borough":"Merton ","display_name":"Black Locust","tree_count":134,"avg_latitude":51.4081057047,"avg_longitude":-0.2036790652}
+,{"borough":"Merton ","display_name":"Cherry","tree_count":2127,"avg_latitude":51.4067214747,"avg_longitude":-0.199778338}
+,{"borough":"Merton ","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1027,"avg_latitude":51.4033814786,"avg_longitude":-0.2016788436}
+,{"borough":"Merton ","display_name":"Cypress","tree_count":408,"avg_latitude":51.4081431917,"avg_longitude":-0.1988716803}
+,{"borough":"Merton ","display_name":"Elm","tree_count":234,"avg_latitude":51.3980154448,"avg_longitude":-0.2038483747}
+,{"borough":"Merton ","display_name":"Hawthorn","tree_count":792,"avg_latitude":51.404171178,"avg_longitude":-0.1982801719}
+,{"borough":"Merton ","display_name":"Hazel","tree_count":205,"avg_latitude":51.4098394964,"avg_longitude":-0.1963320894}
+,{"borough":"Merton ","display_name":"Hornbeam","tree_count":233,"avg_latitude":51.4057368113,"avg_longitude":-0.1993513905}
+,{"borough":"Merton ","display_name":"Lime","tree_count":1925,"avg_latitude":51.4103136911,"avg_longitude":-0.1914712738}
+,{"borough":"Merton ","display_name":"Maple","tree_count":2199,"avg_latitude":51.4051560886,"avg_longitude":-0.1918332286}
+,{"borough":"Merton ","display_name":"Oak","tree_count":1385,"avg_latitude":51.4016486778,"avg_longitude":-0.2040318954}
+,{"borough":"Merton ","display_name":"Other","tree_count":1870,"avg_latitude":51.4110371987,"avg_longitude":-0.1962795499}
+,{"borough":"Merton ","display_name":"Pear","tree_count":185,"avg_latitude":51.4073430863,"avg_longitude":-0.2000980356}
+,{"borough":"Merton ","display_name":"Pine","tree_count":315,"avg_latitude":51.402615483,"avg_longitude":-0.2103820065}
+,{"borough":"Merton ","display_name":"Plane","tree_count":641,"avg_latitude":51.4128890336,"avg_longitude":-0.2013042465}
+,{"borough":"Merton ","display_name":"Poplar","tree_count":539,"avg_latitude":51.4167510331,"avg_longitude":-0.1979727652}
+,{"borough":"Merton ","display_name":"Whitebeam","tree_count":827,"avg_latitude":51.4094194538,"avg_longitude":-0.1918326917}
+,{"borough":"Merton ","display_name":"Willow","tree_count":225,"avg_latitude":51.406185961,"avg_longitude":-0.1963590031}
+,{"borough":"Newham","display_name":"Alder","tree_count":311,"avg_latitude":51.5234554299,"avg_longitude":0.0326265958}
+,{"borough":"Newham","display_name":"Apple","tree_count":968,"avg_latitude":51.5317721979,"avg_longitude":0.0326024451}
+,{"borough":"Newham","display_name":"Ash","tree_count":1731,"avg_latitude":51.5327428798,"avg_longitude":0.0472850494}
+,{"borough":"Newham","display_name":"Beech","tree_count":120,"avg_latitude":51.5405266621,"avg_longitude":0.0703212063}
+,{"borough":"Newham","display_name":"Birch","tree_count":1180,"avg_latitude":51.5270213008,"avg_longitude":0.0387081171}
+,{"borough":"Newham","display_name":"Cherry","tree_count":3433,"avg_latitude":51.5290935579,"avg_longitude":0.0378839054}
+,{"borough":"Newham","display_name":"Chestnut\/ Sweet Chestnut","tree_count":339,"avg_latitude":51.4776640994,"avg_longitude":0.1716242206}
+,{"borough":"Newham","display_name":"Cypress","tree_count":637,"avg_latitude":51.5317418072,"avg_longitude":0.0483520014}
+,{"borough":"Newham","display_name":"Elm","tree_count":72,"avg_latitude":51.5567368454,"avg_longitude":0.1424636136}
+,{"borough":"Newham","display_name":"Hawthorn","tree_count":497,"avg_latitude":51.5390604187,"avg_longitude":0.0634448887}
+,{"borough":"Newham","display_name":"Hazel","tree_count":107,"avg_latitude":51.5318887736,"avg_longitude":0.0318791902}
+,{"borough":"Newham","display_name":"Hornbeam","tree_count":971,"avg_latitude":51.546804827,"avg_longitude":0.0951412326}
+,{"borough":"Newham","display_name":"Lime","tree_count":1115,"avg_latitude":51.5322786681,"avg_longitude":0.0331894638}
+,{"borough":"Newham","display_name":"Maple","tree_count":4688,"avg_latitude":51.5309415772,"avg_longitude":0.0357051205}
+,{"borough":"Newham","display_name":"Oak","tree_count":311,"avg_latitude":51.5408967831,"avg_longitude":0.0969175112}
+,{"borough":"Newham","display_name":"Other","tree_count":4518,"avg_latitude":51.5355072845,"avg_longitude":0.0420437569}
+,{"borough":"Newham","display_name":"Pear","tree_count":556,"avg_latitude":51.5313382608,"avg_longitude":0.0289886161}
+,{"borough":"Newham","display_name":"Pine","tree_count":126,"avg_latitude":51.5226603177,"avg_longitude":0.0420076736}
+,{"borough":"Newham","display_name":"Plane","tree_count":5724,"avg_latitude":51.5319890215,"avg_longitude":0.0394623135}
+,{"borough":"Newham","display_name":"Poplar","tree_count":211,"avg_latitude":51.5385309186,"avg_longitude":0.0902264164}
+,{"borough":"Newham","display_name":"Whitebeam","tree_count":2110,"avg_latitude":51.5302380571,"avg_longitude":0.0359701699}
+,{"borough":"Newham","display_name":"Willow","tree_count":377,"avg_latitude":51.5271424318,"avg_longitude":0.040065561}
+,{"borough":"Redbridge","display_name":"Alder","tree_count":940,"avg_latitude":51.5814981608,"avg_longitude":0.0648417811}
+,{"borough":"Redbridge","display_name":"Apple","tree_count":2294,"avg_latitude":51.5868269637,"avg_longitude":0.064454771}
+,{"borough":"Redbridge","display_name":"Ash","tree_count":1538,"avg_latitude":51.5882940143,"avg_longitude":0.0685719441}
+,{"borough":"Redbridge","display_name":"Beech","tree_count":245,"avg_latitude":51.5803481173,"avg_longitude":0.0697995459}
+,{"borough":"Redbridge","display_name":"Birch","tree_count":1465,"avg_latitude":51.5822471955,"avg_longitude":0.0684393264}
+,{"borough":"Redbridge","display_name":"Cherry","tree_count":10953,"avg_latitude":51.5839344301,"avg_longitude":0.0637417906}
+,{"borough":"Redbridge","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1152,"avg_latitude":51.5881074294,"avg_longitude":0.0513744259}
+,{"borough":"Redbridge","display_name":"Cypress","tree_count":1176,"avg_latitude":51.5863927735,"avg_longitude":0.0706040786}
+,{"borough":"Redbridge","display_name":"Elm","tree_count":207,"avg_latitude":51.5860414056,"avg_longitude":0.0617070968}
+,{"borough":"Redbridge","display_name":"Hawthorn","tree_count":1677,"avg_latitude":51.5885495914,"avg_longitude":0.0627268834}
+,{"borough":"Redbridge","display_name":"Hazel","tree_count":111,"avg_latitude":51.5744338186,"avg_longitude":0.0642685137}
+,{"borough":"Redbridge","display_name":"Hornbeam","tree_count":583,"avg_latitude":51.5883187764,"avg_longitude":0.0688141399}
+,{"borough":"Redbridge","display_name":"Lime","tree_count":3013,"avg_latitude":51.5823745265,"avg_longitude":0.0676975874}
+,{"borough":"Redbridge","display_name":"Maple","tree_count":4280,"avg_latitude":51.5828269092,"avg_longitude":0.0645448296}
+,{"borough":"Redbridge","display_name":"Oak","tree_count":1884,"avg_latitude":51.5881064225,"avg_longitude":0.0667024051}
+,{"borough":"Redbridge","display_name":"Other","tree_count":5920,"avg_latitude":51.5816628376,"avg_longitude":0.0664767304}
+,{"borough":"Redbridge","display_name":"Pear","tree_count":1134,"avg_latitude":51.5845726252,"avg_longitude":0.0591689369}
+,{"borough":"Redbridge","display_name":"Pine","tree_count":225,"avg_latitude":51.587995599,"avg_longitude":0.0633643594}
+,{"borough":"Redbridge","display_name":"Plane","tree_count":714,"avg_latitude":51.5792916689,"avg_longitude":0.0648150227}
+,{"borough":"Redbridge","display_name":"Poplar","tree_count":443,"avg_latitude":51.5862836893,"avg_longitude":0.0640240457}
+,{"borough":"Redbridge","display_name":"Whitebeam","tree_count":1076,"avg_latitude":51.5860412478,"avg_longitude":0.0622551986}
+,{"borough":"Redbridge","display_name":"Willow","tree_count":474,"avg_latitude":51.5889632461,"avg_longitude":0.0677809484}
+,{"borough":"Richmond","display_name":"Alder","tree_count":549,"avg_latitude":51.4475719455,"avg_longitude":-0.3225913633}
+,{"borough":"Richmond","display_name":"Apple","tree_count":796,"avg_latitude":51.4540283758,"avg_longitude":-0.30325311}
+,{"borough":"Richmond","display_name":"Ash","tree_count":933,"avg_latitude":51.441406224,"avg_longitude":-0.3502730991}
+,{"borough":"Richmond","display_name":"Beech","tree_count":113,"avg_latitude":51.4507886985,"avg_longitude":-0.3161424144}
+,{"borough":"Richmond","display_name":"Birch","tree_count":1434,"avg_latitude":51.4507381138,"avg_longitude":-0.3179002463}
+,{"borough":"Richmond","display_name":"Black Locust","tree_count":266,"avg_latitude":51.4511194935,"avg_longitude":-0.3169426232}
+,{"borough":"Richmond","display_name":"Cherry","tree_count":3277,"avg_latitude":51.4554396583,"avg_longitude":-0.3040711506}
+,{"borough":"Richmond","display_name":"Chestnut\/ Sweet Chestnut","tree_count":776,"avg_latitude":51.4456928961,"avg_longitude":-0.3204397357}
+,{"borough":"Richmond","display_name":"Cypress","tree_count":255,"avg_latitude":51.4446591215,"avg_longitude":-0.3279017964}
+,{"borough":"Richmond","display_name":"Elm","tree_count":72,"avg_latitude":51.4494252828,"avg_longitude":-0.3071480063}
+,{"borough":"Richmond","display_name":"Hawthorn","tree_count":498,"avg_latitude":51.451720314,"avg_longitude":-0.319180975}
+,{"borough":"Richmond","display_name":"Hazel","tree_count":162,"avg_latitude":51.4443731753,"avg_longitude":-0.3264620323}
+,{"borough":"Richmond","display_name":"Hornbeam","tree_count":437,"avg_latitude":51.4494569051,"avg_longitude":-0.320781164}
+,{"borough":"Richmond","display_name":"Lime","tree_count":2019,"avg_latitude":51.4488821524,"avg_longitude":-0.3088191223}
+,{"borough":"Richmond","display_name":"Maple","tree_count":3328,"avg_latitude":51.4490458819,"avg_longitude":-0.3222651362}
+,{"borough":"Richmond","display_name":"Oak","tree_count":857,"avg_latitude":51.4407840672,"avg_longitude":-0.3407511552}
+,{"borough":"Richmond","display_name":"Other","tree_count":1517,"avg_latitude":51.4486175558,"avg_longitude":-0.3182824331}
+,{"borough":"Richmond","display_name":"Pear","tree_count":471,"avg_latitude":51.4564795064,"avg_longitude":-0.2915286831}
+,{"borough":"Richmond","display_name":"Pine","tree_count":94,"avg_latitude":51.438858548,"avg_longitude":-0.3254905208}
+,{"borough":"Richmond","display_name":"Plane","tree_count":1500,"avg_latitude":51.4504855024,"avg_longitude":-0.3134722462}
+,{"borough":"Richmond","display_name":"Poplar","tree_count":232,"avg_latitude":51.4489201297,"avg_longitude":-0.3187714615}
+,{"borough":"Richmond","display_name":"Whitebeam","tree_count":1172,"avg_latitude":51.4500572611,"avg_longitude":-0.3217337452}
+,{"borough":"Richmond","display_name":"Willow","tree_count":245,"avg_latitude":51.4477655379,"avg_longitude":-0.3102240599}
+,{"borough":"Southwark","display_name":"Alder","tree_count":671,"avg_latitude":51.4778568506,"avg_longitude":-0.0693769975}
+,{"borough":"Southwark","display_name":"Apple","tree_count":1306,"avg_latitude":51.4744885939,"avg_longitude":-0.0747201275}
+,{"borough":"Southwark","display_name":"Ash","tree_count":2924,"avg_latitude":51.4759364339,"avg_longitude":-0.0695103617}
+,{"borough":"Southwark","display_name":"Beech","tree_count":218,"avg_latitude":51.4669281625,"avg_longitude":-0.0698844281}
+,{"borough":"Southwark","display_name":"Birch","tree_count":2222,"avg_latitude":51.4723649254,"avg_longitude":-0.0744396451}
+,{"borough":"Southwark","display_name":"Black Locust","tree_count":1037,"avg_latitude":51.4804451074,"avg_longitude":-0.0704501937}
+,{"borough":"Southwark","display_name":"Cherry","tree_count":5304,"avg_latitude":51.4792504964,"avg_longitude":-0.0731240905}
+,{"borough":"Southwark","display_name":"Chestnut\/ Sweet Chestnut","tree_count":1130,"avg_latitude":51.4683946518,"avg_longitude":-0.0709217482}
+,{"borough":"Southwark","display_name":"Cypress","tree_count":1326,"avg_latitude":51.4658998734,"avg_longitude":-0.0682721291}
+,{"borough":"Southwark","display_name":"Elm","tree_count":464,"avg_latitude":51.4589180866,"avg_longitude":-0.0701849503}
+,{"borough":"Southwark","display_name":"Hawthorn","tree_count":1735,"avg_latitude":51.471051024,"avg_longitude":-0.070144669}
+,{"borough":"Southwark","display_name":"Hazel","tree_count":444,"avg_latitude":51.4849825506,"avg_longitude":-0.0679414147}
+,{"borough":"Southwark","display_name":"Hornbeam","tree_count":678,"avg_latitude":51.4755980829,"avg_longitude":-0.0700853273}
+,{"borough":"Southwark","display_name":"Lime","tree_count":3760,"avg_latitude":51.4765157194,"avg_longitude":-0.0732410518}
+,{"borough":"Southwark","display_name":"Maple","tree_count":7099,"avg_latitude":51.4777827527,"avg_longitude":-0.071252758}
+,{"borough":"Southwark","display_name":"Oak","tree_count":1420,"avg_latitude":51.4568373487,"avg_longitude":-0.0699134186}
+,{"borough":"Southwark","display_name":"Other","tree_count":7000,"avg_latitude":51.4722454371,"avg_longitude":-0.074133989}
+,{"borough":"Southwark","display_name":"Pear","tree_count":1531,"avg_latitude":51.4743428905,"avg_longitude":-0.0771245019}
+,{"borough":"Southwark","display_name":"Pine","tree_count":307,"avg_latitude":51.4742452998,"avg_longitude":-0.066051374}
+,{"borough":"Southwark","display_name":"Plane","tree_count":5894,"avg_latitude":51.4832462773,"avg_longitude":-0.0743024017}
+,{"borough":"Southwark","display_name":"Poplar","tree_count":1406,"avg_latitude":51.4746756645,"avg_longitude":-0.0584894692}
+,{"borough":"Southwark","display_name":"Whitebeam","tree_count":1875,"avg_latitude":51.4808625743,"avg_longitude":-0.0745709619}
+,{"borough":"Southwark","display_name":"Willow","tree_count":974,"avg_latitude":51.4881079915,"avg_longitude":-0.0572209773}
+,{"borough":"Sutton","display_name":"Alder","tree_count":415,"avg_latitude":51.3623679616,"avg_longitude":-0.1764409363}
+,{"borough":"Sutton","display_name":"Apple","tree_count":708,"avg_latitude":51.3619312406,"avg_longitude":-0.1846209783}
+,{"borough":"Sutton","display_name":"Ash","tree_count":1133,"avg_latitude":51.3601734409,"avg_longitude":-0.1903107519}
+,{"borough":"Sutton","display_name":"Beech","tree_count":368,"avg_latitude":51.3572348957,"avg_longitude":-0.1752653757}
+,{"borough":"Sutton","display_name":"Birch","tree_count":1209,"avg_latitude":51.3609885129,"avg_longitude":-0.182955852}
+,{"borough":"Sutton","display_name":"Black Locust","tree_count":309,"avg_latitude":51.3614316584,"avg_longitude":-0.1725673745}
+,{"borough":"Sutton","display_name":"Cherry","tree_count":3715,"avg_latitude":51.3620657685,"avg_longitude":-0.1922522912}
+,{"borough":"Sutton","display_name":"Chestnut\/ Sweet Chestnut","tree_count":991,"avg_latitude":51.3612070248,"avg_longitude":-0.1716485676}
+,{"borough":"Sutton","display_name":"Cypress","tree_count":184,"avg_latitude":51.3685456661,"avg_longitude":-0.1796048317}
+,{"borough":"Sutton","display_name":"Elm","tree_count":89,"avg_latitude":51.3643380016,"avg_longitude":-0.1796941873}
+,{"borough":"Sutton","display_name":"Hawthorn","tree_count":518,"avg_latitude":51.3671092677,"avg_longitude":-0.1843979976}
+,{"borough":"Sutton","display_name":"Hazel","tree_count":371,"avg_latitude":51.3602809108,"avg_longitude":-0.2095589405}
+,{"borough":"Sutton","display_name":"Hornbeam","tree_count":291,"avg_latitude":51.359162607,"avg_longitude":-0.1731868196}
+,{"borough":"Sutton","display_name":"Lime","tree_count":2604,"avg_latitude":51.3625301529,"avg_longitude":-0.1790069977}
+,{"borough":"Sutton","display_name":"Maple","tree_count":3475,"avg_latitude":51.3629285088,"avg_longitude":-0.1860645538}
+,{"borough":"Sutton","display_name":"Oak","tree_count":467,"avg_latitude":51.361112249,"avg_longitude":-0.1901964555}
+,{"borough":"Sutton","display_name":"Other","tree_count":1122,"avg_latitude":51.3647013476,"avg_longitude":-0.1749873004}
+,{"borough":"Sutton","display_name":"Pear","tree_count":686,"avg_latitude":51.3662289451,"avg_longitude":-0.1815634879}
+,{"borough":"Sutton","display_name":"Pine","tree_count":167,"avg_latitude":51.3611680635,"avg_longitude":-0.1689249142}
+,{"borough":"Sutton","display_name":"Plane","tree_count":415,"avg_latitude":51.3645839307,"avg_longitude":-0.1770221541}
+,{"borough":"Sutton","display_name":"Poplar","tree_count":303,"avg_latitude":51.3419059598,"avg_longitude":-0.2585941177}
+,{"borough":"Sutton","display_name":"Whitebeam","tree_count":1642,"avg_latitude":51.3600609734,"avg_longitude":-0.1960198366}
+,{"borough":"Sutton","display_name":"Willow","tree_count":105,"avg_latitude":51.3713672771,"avg_longitude":-0.1714699675}
+,{"borough":"TFL","display_name":"Alder","tree_count":492,"avg_latitude":51.4909044347,"avg_longitude":-0.1457332474}
+,{"borough":"TFL","display_name":"Apple","tree_count":263,"avg_latitude":51.4854444332,"avg_longitude":-0.1628655936}
+,{"borough":"TFL","display_name":"Ash","tree_count":1540,"avg_latitude":51.5144339475,"avg_longitude":-0.1484868784}
+,{"borough":"TFL","display_name":"Beech","tree_count":140,"avg_latitude":51.4906675303,"avg_longitude":-0.1901266651}
+,{"borough":"TFL","display_name":"Birch","tree_count":884,"avg_latitude":51.5060355281,"avg_longitude":-0.1293642584}
+,{"borough":"TFL","display_name":"Cherry","tree_count":1507,"avg_latitude":51.4932242791,"avg_longitude":-0.1581249503}
+,{"borough":"TFL","display_name":"Chestnut\/ Sweet Chestnut","tree_count":712,"avg_latitude":51.4950109127,"avg_longitude":-0.2083381787}
+,{"borough":"TFL","display_name":"Cypress","tree_count":230,"avg_latitude":51.4833146311,"avg_longitude":-0.2926193765}
+,{"borough":"TFL","display_name":"Elm","tree_count":414,"avg_latitude":51.5475412935,"avg_longitude":-0.1344766384}
+,{"borough":"TFL","display_name":"Hawthorn","tree_count":467,"avg_latitude":51.4938568896,"avg_longitude":-0.1280037196}
+,{"borough":"TFL","display_name":"Hazel","tree_count":143,"avg_latitude":51.5016055707,"avg_longitude":-0.1839580033}
+,{"borough":"TFL","display_name":"Hornbeam","tree_count":407,"avg_latitude":51.5168254143,"avg_longitude":-0.1200862139}
+,{"borough":"TFL","display_name":"Lime","tree_count":2853,"avg_latitude":51.4902104236,"avg_longitude":-0.172924535}
+,{"borough":"TFL","display_name":"Maple","tree_count":2881,"avg_latitude":51.4990706842,"avg_longitude":-0.1719224764}
+,{"borough":"TFL","display_name":"Oak","tree_count":545,"avg_latitude":51.4983947114,"avg_longitude":-0.146194749}
+,{"borough":"TFL","display_name":"Other","tree_count":559,"avg_latitude":51.4868630002,"avg_longitude":-0.1349147574}
+,{"borough":"TFL","display_name":"Pear","tree_count":261,"avg_latitude":51.4770070136,"avg_longitude":-0.1147732499}
+,{"borough":"TFL","display_name":"Pine","tree_count":116,"avg_latitude":51.4542896209,"avg_longitude":-0.0989738202}
+,{"borough":"TFL","display_name":"Plane","tree_count":5249,"avg_latitude":51.4916838317,"avg_longitude":-0.1032435939}
+,{"borough":"TFL","display_name":"Poplar","tree_count":144,"avg_latitude":51.4995181041,"avg_longitude":-0.0761281849}
+,{"borough":"TFL","display_name":"Whitebeam","tree_count":1005,"avg_latitude":51.5080074949,"avg_longitude":-0.1122532061}
+,{"borough":"TFL","display_name":"Willow","tree_count":101,"avg_latitude":51.4976939029,"avg_longitude":-0.103946544}
+,{"borough":"Tower Hamlets","display_name":"Alder","tree_count":336,"avg_latitude":51.514243821,"avg_longitude":-0.0402936173}
+,{"borough":"Tower Hamlets","display_name":"Apple","tree_count":289,"avg_latitude":51.5216354029,"avg_longitude":-0.0455943504}
+,{"borough":"Tower Hamlets","display_name":"Ash","tree_count":586,"avg_latitude":51.5112165449,"avg_longitude":-0.0368704381}
+,{"borough":"Tower Hamlets","display_name":"Beech","tree_count":37,"avg_latitude":51.5180918554,"avg_longitude":-0.0385300951}
+,{"borough":"Tower Hamlets","display_name":"Birch","tree_count":457,"avg_latitude":51.5143245985,"avg_longitude":-0.0370376509}
+,{"borough":"Tower Hamlets","display_name":"Black Locust","tree_count":253,"avg_latitude":51.5148062584,"avg_longitude":-0.0373798581}
+,{"borough":"Tower Hamlets","display_name":"Cherry","tree_count":1430,"avg_latitude":51.5203790882,"avg_longitude":-0.0425477442}
+,{"borough":"Tower Hamlets","display_name":"Chestnut\/ Sweet Chestnut","tree_count":272,"avg_latitude":51.5151664099,"avg_longitude":-0.0333703065}
+,{"borough":"Tower Hamlets","display_name":"Cypress","tree_count":156,"avg_latitude":51.5110533479,"avg_longitude":-0.0455137368}
+,{"borough":"Tower Hamlets","display_name":"Elm","tree_count":26,"avg_latitude":51.523289325,"avg_longitude":-0.0435718676}
+,{"borough":"Tower Hamlets","display_name":"Hawthorn","tree_count":249,"avg_latitude":51.5143331342,"avg_longitude":-0.0404781969}
+,{"borough":"Tower Hamlets","display_name":"Hazel","tree_count":166,"avg_latitude":51.5144447683,"avg_longitude":-0.0489143058}
+,{"borough":"Tower Hamlets","display_name":"Hornbeam","tree_count":230,"avg_latitude":51.5177275929,"avg_longitude":-0.0384647319}
+,{"borough":"Tower Hamlets","display_name":"Lime","tree_count":1021,"avg_latitude":51.5181745855,"avg_longitude":-0.0440538965}
+,{"borough":"Tower Hamlets","display_name":"Maple","tree_count":1402,"avg_latitude":51.5192510758,"avg_longitude":-0.0447079319}
+,{"borough":"Tower Hamlets","display_name":"Oak","tree_count":141,"avg_latitude":51.5113042624,"avg_longitude":-0.0318839314}
+,{"borough":"Tower Hamlets","display_name":"Other","tree_count":998,"avg_latitude":51.5204096122,"avg_longitude":-0.0440879754}
+,{"borough":"Tower Hamlets","display_name":"Pear","tree_count":131,"avg_latitude":51.517900708,"avg_longitude":-0.0471959622}
+,{"borough":"Tower Hamlets","display_name":"Pine","tree_count":43,"avg_latitude":51.5102165628,"avg_longitude":-0.0471911151}
+,{"borough":"Tower Hamlets","display_name":"Plane","tree_count":2397,"avg_latitude":51.5152506386,"avg_longitude":-0.0356095391}
+,{"borough":"Tower Hamlets","display_name":"Poplar","tree_count":527,"avg_latitude":51.5102565304,"avg_longitude":-0.038582079}
+,{"borough":"Tower Hamlets","display_name":"Whitebeam","tree_count":480,"avg_latitude":51.519906615,"avg_longitude":-0.0480278942}
+,{"borough":"Tower Hamlets","display_name":"Willow","tree_count":224,"avg_latitude":51.5121156078,"avg_longitude":-0.0427225453}
+,{"borough":"Waltham Forest","display_name":"Alder","tree_count":630,"avg_latitude":51.591744619,"avg_longitude":-0.0124248074}
+,{"borough":"Waltham Forest","display_name":"Apple","tree_count":955,"avg_latitude":51.589529854,"avg_longitude":-0.0090118812}
+,{"borough":"Waltham Forest","display_name":"Ash","tree_count":2645,"avg_latitude":51.6027211252,"avg_longitude":-0.0065230491}
+,{"borough":"Waltham Forest","display_name":"Beech","tree_count":240,"avg_latitude":51.6069378812,"avg_longitude":-0.0070731145}
+,{"borough":"Waltham Forest","display_name":"Birch","tree_count":2530,"avg_latitude":51.5897151664,"avg_longitude":-0.0114172676}
+,{"borough":"Waltham Forest","display_name":"Cherry","tree_count":6314,"avg_latitude":51.5942129769,"avg_longitude":-0.0105111678}
+,{"borough":"Waltham Forest","display_name":"Chestnut\/ Sweet Chestnut","tree_count":329,"avg_latitude":51.6094162369,"avg_longitude":-0.005301982}
+,{"borough":"Waltham Forest","display_name":"Cypress","tree_count":458,"avg_latitude":51.6106906612,"avg_longitude":-0.0104369354}
+,{"borough":"Waltham Forest","display_name":"Elm","tree_count":365,"avg_latitude":51.6045503648,"avg_longitude":-0.0083704921}
+,{"borough":"Waltham Forest","display_name":"Hawthorn","tree_count":1674,"avg_latitude":51.6003971254,"avg_longitude":-0.0092750664}
+,{"borough":"Waltham Forest","display_name":"Hazel","tree_count":727,"avg_latitude":51.5867275072,"avg_longitude":-0.0112931183}
+,{"borough":"Waltham Forest","display_name":"Hornbeam","tree_count":1610,"avg_latitude":51.5966392141,"avg_longitude":-0.0038382713}
+,{"borough":"Waltham Forest","display_name":"Lime","tree_count":2451,"avg_latitude":51.5940344078,"avg_longitude":-0.0099432958}
+,{"borough":"Waltham Forest","display_name":"Maple","tree_count":8038,"avg_latitude":51.5920229776,"avg_longitude":-0.0094161557}
+,{"borough":"Waltham Forest","display_name":"Oak","tree_count":1975,"avg_latitude":51.6109823149,"avg_longitude":-0.0012224003}
+,{"borough":"Waltham Forest","display_name":"Other","tree_count":4953,"avg_latitude":51.5917813994,"avg_longitude":-0.010627359}
+,{"borough":"Waltham Forest","display_name":"Pear","tree_count":813,"avg_latitude":51.5852963463,"avg_longitude":-0.0088408731}
+,{"borough":"Waltham Forest","display_name":"Pine","tree_count":248,"avg_latitude":51.6026636536,"avg_longitude":-0.0042485637}
+,{"borough":"Waltham Forest","display_name":"Plane","tree_count":2259,"avg_latitude":51.583155735,"avg_longitude":-0.0140035172}
+,{"borough":"Waltham Forest","display_name":"Poplar","tree_count":1120,"avg_latitude":51.5955241905,"avg_longitude":-0.0154556988}
+,{"borough":"Waltham Forest","display_name":"Whitebeam","tree_count":1634,"avg_latitude":51.5846764825,"avg_longitude":-0.0111395318}
+,{"borough":"Waltham Forest","display_name":"Willow","tree_count":509,"avg_latitude":51.5993627765,"avg_longitude":-0.0139582716}
+,{"borough":"Westminster","display_name":"Alder","tree_count":417,"avg_latitude":51.5195636502,"avg_longitude":-0.1744015041}
+,{"borough":"Westminster","display_name":"Apple","tree_count":458,"avg_latitude":51.5186465434,"avg_longitude":-0.1783368888}
+,{"borough":"Westminster","display_name":"Ash","tree_count":707,"avg_latitude":51.5281583204,"avg_longitude":-0.1845436956}
+,{"borough":"Westminster","display_name":"Beech","tree_count":31,"avg_latitude":51.5457762742,"avg_longitude":-0.1936902522}
+,{"borough":"Westminster","display_name":"Birch","tree_count":890,"avg_latitude":51.5205614636,"avg_longitude":-0.1699530491}
+,{"borough":"Westminster","display_name":"Black Locust","tree_count":324,"avg_latitude":51.5298975754,"avg_longitude":-0.1870897608}
+,{"borough":"Westminster","display_name":"Cherry","tree_count":1468,"avg_latitude":51.5221634014,"avg_longitude":-0.1844718501}
+,{"borough":"Westminster","display_name":"Chestnut\/ Sweet Chestnut","tree_count":257,"avg_latitude":51.5438385609,"avg_longitude":-0.214741028}
+,{"borough":"Westminster","display_name":"Cypress","tree_count":504,"avg_latitude":51.5659338849,"avg_longitude":-0.1919287402}
+,{"borough":"Westminster","display_name":"Elm","tree_count":166,"avg_latitude":51.5466744922,"avg_longitude":-0.1718170178}
+,{"borough":"Westminster","display_name":"Hawthorn","tree_count":257,"avg_latitude":51.536944791,"avg_longitude":-0.1988907088}
+,{"borough":"Westminster","display_name":"Hazel","tree_count":41,"avg_latitude":51.5233303039,"avg_longitude":-0.1839790658}
+,{"borough":"Westminster","display_name":"Hornbeam","tree_count":139,"avg_latitude":51.5225963819,"avg_longitude":-0.1884058602}
+,{"borough":"Westminster","display_name":"Lime","tree_count":857,"avg_latitude":51.5229210266,"avg_longitude":-0.1824048833}
+,{"borough":"Westminster","display_name":"Maple","tree_count":1770,"avg_latitude":51.5361036978,"avg_longitude":-0.1907528927}
+,{"borough":"Westminster","display_name":"Oak","tree_count":386,"avg_latitude":51.5507004281,"avg_longitude":-0.1934333076}
+,{"borough":"Westminster","display_name":"Other","tree_count":2685,"avg_latitude":51.5388328809,"avg_longitude":-0.1798865387}
+,{"borough":"Westminster","display_name":"Pear","tree_count":1826,"avg_latitude":51.51659126,"avg_longitude":-0.1634577616}
+,{"borough":"Westminster","display_name":"Pine","tree_count":108,"avg_latitude":51.5636418469,"avg_longitude":-0.1888433663}
+,{"borough":"Westminster","display_name":"Plane","tree_count":3976,"avg_latitude":51.518309151,"avg_longitude":-0.1727172024}
+,{"borough":"Westminster","display_name":"Poplar","tree_count":93,"avg_latitude":51.535259309,"avg_longitude":-0.2101768942}
+,{"borough":"Westminster","display_name":"Whitebeam","tree_count":700,"avg_latitude":51.5216695493,"avg_longitude":-0.1806132612}
+,{"borough":"Westminster","display_name":"Willow","tree_count":95,"avg_latitude":51.5228286762,"avg_longitude":-0.1822767163}
+]

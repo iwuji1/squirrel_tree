@@ -1,7 +1,7 @@
 <script>
     import {onMount} from 'svelte';
     import * as d3 from 'd3';
-    import mapboxgl from 'mapbox-gl';npm
+    import mapboxgl from 'mapbox-gl';
 	import * as Three from 'threebox-plugin';
     import * as THREE from 'three';
 	import { MeshToonMaterial } from 'three';

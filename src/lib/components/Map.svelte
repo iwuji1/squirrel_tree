@@ -3,7 +3,7 @@
     import mapboxgl from 'mapbox-gl';
     import * as THREE from "three";
     
-    let map;
+    //let map;
 
     let geojsonData;
 
@@ -30,7 +30,7 @@
 
         map = new mapboxgl.Map({
             container: 'map', // ID of the container div
-            style: 'mapbox://styles/mapbox/streets-v11', // Replace with your preferred style
+            style: 'mapbox://styles/obiwuji/cmen0w4vc005m01s8d0rocj1l', // Replace with your preferred style
             center: [-0.1, 51.5], // Example: London coordinates
             zoom: 10
         });

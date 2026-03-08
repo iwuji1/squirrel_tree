@@ -35,9 +35,11 @@
 		"vite": "^5.4.11"
 	},
 	"dependencies": {
+		"@threlte/core": "^8.3.1",
+		"@threlte/extras": "^9.7.1",
 		"d3": "^7.9.0",
 		"lil-gui": "^0.20.0",
-		"mapbox-gl": "^3.9.4",
+		"mapbox-gl": "^3.19.1",
 		"three": "^0.173.0",
 		"threebox-plugin": "^2.2.7"
 	}
